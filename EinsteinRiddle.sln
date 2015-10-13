@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
+# Visual Studio 2015
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "EinsteinRiddle", "EinsteinRiddle\EinsteinRiddle.fsproj", "{7F0F8331-6BB5-47B3-A15B-A8F18E454DB5}"
